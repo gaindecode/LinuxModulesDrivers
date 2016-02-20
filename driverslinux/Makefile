@@ -1,0 +1,23 @@
+obj-m += driverecriturefichier.o
+
+all: khalebiosdriver_test khalebiosdriver_read
+
+
+khalebiosdriver_test: khalebiosdriver_test.o 
+	gcc -o khalebiosdriver_test khalebiosdriver_test.o
+
+khalebiosdriver_test.o: khalebiosdriver_test.c
+	gcc -o khalebiosdriver_test.o -c khalebiosdriver_test.c -W -Wall -ansi -pedantic
+
+khalebiosdriver_read: khalebiosdriver_read.o 
+	gcc -o khalebiosdriver_read khalebiosdriver_read.o
+
+khalebiosdriver_read.o: khalebiosdriver_read.c
+	gcc -o khalebiosdriver_read.o -c khalebiosdriver_read.c -W -Wall -ansi -pedantic
+
+
+default:
+	make CC=gcc-4.8 -C /lib/modules/$(shell uname -r)/build M=$(PWD) modules
+	
+clean:
+	make -C /lib/modules/$(shell uname -r)/build M=$(PWD) clean

@@ -1,0 +1,2 @@
+mknod /dev/khalebiosdriver c 254 0
+echo  "coucou" > /dev/khalebiosdriver

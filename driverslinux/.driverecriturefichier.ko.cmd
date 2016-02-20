@@ -1,0 +1,1 @@
+cmd_/home/khalebios/Bureau/driverslinux/driverecriturefichier.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/khalebios/Bureau/driverslinux/driverecriturefichier.ko /home/khalebios/Bureau/driverslinux/driverecriturefichier.o /home/khalebios/Bureau/driverslinux/driverecriturefichier.mod.o

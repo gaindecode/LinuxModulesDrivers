@@ -1,0 +1,66 @@
+{
+    "uuid": "0003:044F:B315.0006",
+    "name": "Mega World Thrustmaster dual analog 3.2",
+    "mappings": {
+      "a": {
+        "button": 0
+      },
+      "b": {
+        "button": 2
+      },
+      "x": {
+        "button": 1
+      },
+      "y": {
+        "button": 3
+      },
+      "start": {
+        "button": 9
+      },
+      "back": {
+        "button": 8
+      },
+      "dpup": {
+        "hat": 0.1
+      },
+      "dpleft": {
+        "hat": 0.8
+      },
+      "dpdown": {
+        "hat": 0.4
+      },
+      "dpright": {
+        "hat": 0.2
+      },
+      "leftshoulder": {
+        "button": 4
+      },
+      "rightshoulder": {
+        "button": 6
+      },
+      "leftstick": {
+        "button": 10
+      },
+      "rightstick": {
+        "button": 11
+      },
+      "leftx": {
+        "axis": 0
+      },
+      "lefty": {
+        "axis": 1
+      },
+      "rightx": {
+        "axis": 2
+      },
+      "righty": {
+        "axis": 3
+      },
+      "lefttrigger": {
+        "button": 5
+      },
+      "righttrigger": {
+        "button": 7
+      }
+    }
+  }

@@ -1,0 +1,869 @@
+[
+  {
+    "uuid": "341a3608000000000000504944564944",
+    "name": "Afterglow PS3 Controller",
+    "mappings": {
+      "a": {
+        "button": 1
+      },
+      "b": {
+        "button": 2
+      },
+      "x": {
+        "button": 0
+      },
+      "y": {
+        "button": 3
+      },
+      "start": {
+        "button": 9
+      },
+      "guide": {
+        "button": 12
+      },
+      "back": {
+        "button": 8
+      },
+      "dpup": {
+        "hat": 0.1
+      },
+      "dpleft": {
+        "hat": 0.8
+      },
+      "dpdown": {
+        "hat": 0.4
+      },
+      "dpright": {
+        "hat": 0.2
+      },
+      "leftshoulder": {
+        "button": 4
+      },
+      "rightshoulder": {
+        "button": 5
+      },
+      "leftstick": {
+        "button": 10
+      },
+      "rightstick": {
+        "button": 11
+      },
+      "leftx": {
+        "axis": 0
+      },
+      "lefty": {
+        "axis": 1
+      },
+      "rightx": {
+        "axis": 2
+      },
+      "righty": {
+        "axis": 3
+      },
+      "lefttrigger": {
+        "button": 6
+      },
+      "righttrigger": {
+        "button": 7
+      }
+    }
+  },
+  {
+    "uuid": "0003:046D:C218",
+    "name": "Logitech Logitech RumblePad 2 USB Controllers",
+    "mappings": {
+      "a": {
+        "button": 1
+      },
+      "b": {
+        "button": 2
+      },
+      "x": {
+        "button": 0
+      },
+      "y": {
+        "button": 3
+      },
+      "start": {
+        "button": 9
+      },
+      "back": {
+        "button": 8
+      },
+      "leftshoulder": {
+        "button": 4
+      },
+      "rightshoulder": {
+        "button": 5
+      },
+      "leftx": {
+        "axis": 0
+      },
+      "lefty": {
+        "axis": 1
+      },
+      "rightx": {
+        "axis": 2
+      },
+      "righty": {
+        "axis": 3
+      },
+      "lefttrigger": {
+        "button": 6
+      },
+      "righttrigger": {
+        "button": 7
+      }
+    }
+  },
+  {
+    "uuid": "0003:07B5:0312",
+    "name": "Mega World USB Game Controllers",
+    "mappings": {
+      "a": {
+        "button": 2
+      },
+      "b": {
+        "button": 3
+      },
+      "x": {
+        "button": 0
+      },
+      "y": {
+        "button": 1
+      },
+      "start": {
+        "button": 9
+      },
+      "back": {
+        "button": 8
+      },
+      "leftshoulder": {
+        "button": 4
+      },
+      "rightshoulder": {
+        "button": 6
+      },
+      "leftx": {
+        "axis": 0
+      },
+      "lefty": {
+        "axis": 1
+      },
+      "rightx": {
+        "axis": 3
+      },
+      "righty": {
+        "axis": 2
+      },
+      "lefttrigger": {
+        "button": 5
+      },
+      "righttrigger": {
+        "button": 7
+      }
+    }
+  },
+  {
+    "uuid": "0003:06A3:0107.0008",
+    "name": "SAITEK P220",
+    "mappings": {
+      "a": {
+        "button": 2
+      },
+      "b": {
+        "button": 3
+      },
+      "x": {
+        "button": 0
+      },
+      "y": {
+        "button": 1
+      },
+      "start": {
+        "button": 4
+      },
+      "back": {
+        "button": 5
+      },
+      "leftshoulder": {
+        "button": 6
+      },
+      "rightshoulder": {
+        "button": 7
+      },
+      "leftx": {
+        "axis": 0
+      },
+      "lefty": {
+        "axis": 1
+      }
+    }
+  },
+  {
+    "uuid": "0003:1A34:0802",
+    "name": "USB GAMEPAD 8116",
+    "mappings": {
+      "a": {
+        "button": 0
+      },
+      "b": {
+        "button": 1
+      },
+      "x": {
+        "button": 2
+      },
+      "y": {
+        "button": 3
+      },
+      "guide": {
+        "button": 9
+      },
+      "back": {
+        "button": 8
+      },
+      "dpup": {
+        "axis": 6
+      },
+      "dpleft": {
+        "axis": 5
+      },
+      "dpdown": {
+        "axis": 6
+      },
+      "dpright": {
+        "axis": 5
+      },
+      "leftshoulder": {
+        "button": 4
+      },
+      "rightshoulder": {
+        "button": 5
+      },
+      "leftx": {
+        "axis": 0
+      },
+      "lefty": {
+        "axis": 1
+      },
+      "rightx": {
+        "axis": 2
+      },
+      "righty": {
+        "axis": 3
+      },
+      "lefttrigger": {
+        "axis": 4
+      },
+      "righttrigger": {
+        "axis": 4
+      }
+    }
+  },
+  {
+    "uuid": "0003:044F:B315.0006",
+    "name": "Mega World Thrustmaster dual analog 3.2",
+    "mappings": {
+      "a": {
+        "button": 0
+      },
+      "b": {
+        "button": 2
+      },
+      "x": {
+        "button": 1
+      },
+      "y": {
+        "button": 3
+      },
+      "start": {
+        "button": 9
+      },
+      "back": {
+        "button": 8
+      },
+      "dpup": {
+        "hat": 0.1
+      },
+      "dpleft": {
+        "hat": 0.8
+      },
+      "dpdown": {
+        "hat": 0.4
+      },
+      "dpright": {
+        "hat": 0.2
+      },
+      "leftshoulder": {
+        "button": 4
+      },
+      "rightshoulder": {
+        "button": 6
+      },
+      "leftstick": {
+        "button": 10
+      },
+      "rightstick": {
+        "button": 11
+      },
+      "leftx": {
+        "axis": 0
+      },
+      "lefty": {
+        "axis": 1
+      },
+      "rightx": {
+        "axis": 2
+      },
+      "righty": {
+        "axis": 3
+      },
+      "lefttrigger": {
+        "button": 5
+      },
+      "righttrigger": {
+        "button": 7
+      }
+    }
+  },
+  {
+    "uuid": "030000004f04000009d0000000010000",
+    "name": "Thrustmaster Run\u0027N\u0027 Drive Wireless PS3",
+    "mappings": {
+      "a": {
+        "button": 1
+      },
+      "b": {
+        "button": 2
+      },
+      "x": {
+        "button": 0
+      },
+      "y": {
+        "button": 3
+      },
+      "start": {
+        "button": 9
+      },
+      "guide": {
+        "button": 12
+      },
+      "back": {
+        "button": 8
+      },
+      "dpup": {
+        "hat": 0.1
+      },
+      "dpleft": {
+        "hat": 0.8
+      },
+      "dpdown": {
+        "hat": 0.4
+      },
+      "dpright": {
+        "hat": 0.2
+      },
+      "leftshoulder": {
+        "button": 4
+      },
+      "rightshoulder": {
+        "button": 5
+      },
+      "leftstick": {
+        "button": 10
+      },
+      "rightstick": {
+        "button": 11
+      },
+      "leftx": {
+        "axis": 0
+      },
+      "lefty": {
+        "axis": 1
+      },
+      "rightx": {
+        "axis": 2
+      },
+      "righty": {
+        "axis": 3
+      },
+      "lefttrigger": {
+        "button": 6
+      },
+      "righttrigger": {
+        "button": 7
+      }
+    }
+  },
+  {
+    "uuid": "030000004f04000008d0000000010000",
+    "name": "Thrustmaster Run\u0027N\u0027 Drive Wireless",
+    "mappings": {
+      "a": {
+        "button": 1
+      },
+      "b": {
+        "button": 2
+      },
+      "x": {
+        "button": 0
+      },
+      "y": {
+        "button": 3
+      },
+      "start": {
+        "button": 9
+      },
+      "back": {
+        "button": 8
+      },
+      "dpup": {
+        "hat": 0.1
+      },
+      "dpleft": {
+        "hat": 0.8
+      },
+      "dpdown": {
+        "hat": 0.4
+      },
+      "dpright": {
+        "hat": 0.2
+      },
+      "leftshoulder": {
+        "button": 4
+      },
+      "rightshoulder": {
+        "button": 5
+      },
+      "leftstick": {
+        "button": 10
+      },
+      "rightstick": {
+        "button": 11
+      },
+      "leftx": {
+        "axis": 0
+      },
+      "lefty": {
+        "axis": 1
+      },
+      "rightx": {
+        "axis": 2
+      },
+      "righty": {
+        "axis": 5
+      },
+      "lefttrigger": {
+        "button": 6
+      },
+      "righttrigger": {
+        "button": 7
+      }
+    }
+  },
+  {
+    "uuid": "6d0400000000000018c2000000000000",
+    "name": "Logitech Rumble Gamepad F510(Mac)",
+    "mappings": {
+      "a": {
+        "button": 1
+      },
+      "b": {
+        "button": 2
+      },
+      "x": {
+        "button": 0
+      },
+      "y": {
+        "button": 3
+      },
+      "start": {
+        "button": 9
+      },
+      "back": {
+        "button": 8
+      },
+      "dpup": {
+        "hat": 0.1
+      },
+      "dpleft": {
+        "hat": 0.8
+      },
+      "dpdown": {
+        "hat": 0.4
+      },
+      "dpright": {
+        "hat": 0.2
+      },
+      "leftshoulder": {
+        "button": 4
+      },
+      "rightshoulder": {
+        "button": 5
+      },
+      "leftstick": {
+        "button": 10
+      },
+      "rightstick": {
+        "button": 11
+      },
+      "leftx": {
+        "axis": 0
+      },
+      "lefty": {
+        "axis": 1
+      },
+      "rightx": {
+        "axis": 2
+      },
+      "righty": {
+        "axis": 3
+      },
+      "lefttrigger": {
+        "button": 6
+      },
+      "righttrigger": {
+        "button": 7
+      }
+    }
+  },
+  {
+    "uuid": "6d0400000000000018c2000000000000",
+    "name": "Logitech Rumble Pad 2(Mac)",
+    "mappings": {
+      "a": {
+        "button": 1
+      },
+      "b": {
+        "button": 2
+      },
+      "x": {
+        "button": 0
+      },
+      "y": {
+        "button": 3
+      },
+      "start": {
+        "button": 9
+      },
+      "back": {
+        "button": 8
+      },
+      "dpup": {
+        "hat": 0.1
+      },
+      "dpleft": {
+        "hat": 0.8
+      },
+      "dpdown": {
+        "hat": 0.4
+      },
+      "dpright": {
+        "hat": 0.2
+      },
+      "leftshoulder": {
+        "button": 4
+      },
+      "rightshoulder": {
+        "button": 5
+      },
+      "leftstick": {
+        "button": 10
+      },
+      "rightstick": {
+        "button": 11
+      },
+      "leftx": {
+        "axis": 0
+      },
+      "lefty": {
+        "axis": 1
+      },
+      "rightx": {
+        "axis": 2
+      },
+      "righty": {
+        "axis": 3
+      },
+      "lefttrigger": {
+        "button": 6
+      },
+      "righttrigger": {
+        "button": 7
+      }
+    }
+  },
+  {
+    "uuid": "4c050000000000006802000000000000",
+    "name": "PLAYSTATION(R)3 Controller(Mac)",
+    "mappings": {
+      "a": {
+        "button": 14
+      },
+      "b": {
+        "button": 13
+      },
+      "x": {
+        "button": 15
+      },
+      "y": {
+        "button": 12
+      },
+      "start": {
+        "button": 3
+      },
+      "guide": {
+        "button": 16
+      },
+      "back": {
+        "button": 0
+      },
+      "dpup": {
+        "button": 4
+      },
+      "dpleft": {
+        "button": 7
+      },
+      "dpdown": {
+        "button": 6
+      },
+      "dpright": {
+        "button": 5
+      },
+      "leftshoulder": {
+        "button": 10
+      },
+      "rightshoulder": {
+        "button": 11
+      },
+      "leftstick": {
+        "button": 1
+      },
+      "rightstick": {
+        "button": 2
+      },
+      "leftx": {
+        "axis": 0
+      },
+      "lefty": {
+        "axis": 1
+      },
+      "rightx": {
+        "axis": 2
+      },
+      "righty": {
+        "axis": 3
+      },
+      "lefttrigger": {
+        "button": 8
+      },
+      "righttrigger": {
+        "button": 9
+      }
+    }
+  },
+  {
+    "uuid": "030000006d0400001ec2000020200000",
+    "name": "Logitech Rumble Gamepad F510(Linux)",
+    "mappings": {
+      "a": {
+        "button": 0
+      },
+      "b": {
+        "button": 1
+      },
+      "x": {
+        "button": 2
+      },
+      "y": {
+        "button": 3
+      },
+      "start": {
+        "button": 7
+      },
+      "guide": {
+        "button": 8
+      },
+      "back": {
+        "button": 6
+      },
+      "dpup": {
+        "hat": 0.1
+      },
+      "dpleft": {
+        "hat": 0.8
+      },
+      "dpdown": {
+        "hat": 0.4
+      },
+      "dpright": {
+        "hat": 0.2
+      },
+      "leftshoulder": {
+        "button": 4
+      },
+      "rightshoulder": {
+        "button": 5
+      },
+      "leftstick": {
+        "button": 9
+      },
+      "rightstick": {
+        "button": 10
+      },
+      "leftx": {
+        "axis": 0
+      },
+      "lefty": {
+        "axis": 1
+      },
+      "rightx": {
+        "axis": 3
+      },
+      "righty": {
+        "axis": 4
+      },
+      "lefttrigger": {
+        "axis": 2
+      },
+      "righttrigger": {
+        "axis": 5
+      }
+    }
+  },
+  {
+    "uuid": "030000005e0400008e02000014010000",
+    "name": "Microsoft Xbox 360 Gamepad (xpad) (Linux)",
+    "mappings": {
+      "a": {
+        "button": 0
+      },
+      "b": {
+        "button": 1
+      },
+      "x": {
+        "button": 2
+      },
+      "y": {
+        "button": 3
+      },
+      "start": {
+        "button": 7
+      },
+      "guide": {
+        "button": 8
+      },
+      "back": {
+        "button": 6
+      },
+      "dpup": {
+        "hat": 0.1
+      },
+      "dpleft": {
+        "hat": 0.8
+      },
+      "dpdown": {
+        "hat": 0.4
+      },
+      "dpright": {
+        "hat": 0.2
+      },
+      "leftshoulder": {
+        "button": 4
+      },
+      "rightshoulder": {
+        "button": 5
+      },
+      "leftstick": {
+        "button": 9
+      },
+      "rightstick": {
+        "button": 10
+      },
+      "leftx": {
+        "axis": 0
+      },
+      "lefty": {
+        "axis": 1
+      },
+      "rightx": {
+        "axis": 3
+      },
+      "righty": {
+        "axis": 4
+      },
+      "lefttrigger": {
+        "axis": 2
+      },
+      "righttrigger": {
+        "axis": 5
+      }
+    }
+  },
+  {
+    "uuid": "030000008f0e00001200000010010000",
+    "name": "GreenAsia Inc.",
+    "mappings": {
+      "a": {
+        "button": 2
+      },
+      "b": {
+        "button": 1
+      },
+      "x": {
+        "button": 3
+      },
+      "y": {
+        "button": 0
+      },
+      "start": {
+        "button": 9
+      },
+      "back": {
+        "button": 8
+      },
+      "dpup": {
+        "hat": 0.1
+      },
+      "dpleft": {
+        "hat": 0.8
+      },
+      "dpdown": {
+        "hat": 0.4
+      },
+      "dpright": {
+        "hat": 0.2
+      },
+      "leftshoulder": {
+        "button": 6
+      },
+      "rightshoulder": {
+        "button": 7
+      },
+      "leftstick": {
+        "button": 10
+      },
+      "rightstick": {
+        "button": 11
+      },
+      "leftx": {
+        "axis": 0
+      },
+      "lefty": {
+        "axis": 1
+      },
+      "rightx": {
+        "axis": 2
+      },
+      "righty": {
+        "axis": 3
+      },
+      "lefttrigger": {
+        "button": 4
+      },
+      "righttrigger": {
+        "button": 5
+      }
+    }
+  }
+]
